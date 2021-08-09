@@ -1,7 +1,7 @@
 {
-  "author": "Spotify",
-  "name": "web-api-auth-examples",
-  "description": "Basic examples of the Spotify authorization flows through OAuth 2",
+  "author": "Anurag & Seena",
+  "name": "eventful",
+  "description": "welcome to eventful, a web app to show you notable world events that occured when your favorite tracks were released.",
   "version": "0.0.2",
   "dependencies": {
     "cheerio": "^1.0.0-rc.10",
@@ -11,4 +11,8 @@
     "querystring": "~0.2.0",
     "request": "~2.83.0"
   }
+}
+
+"scripts": {
+  "start": "node node authorization_code/app.js"
 }
