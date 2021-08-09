@@ -14,7 +14,10 @@ These examples run on Node.js. On [its website](http://www.nodejs.org/download/)
 
 Once installed, clone the repository and install its dependencies running:
 
-    $ npm install
+    $ npm install cheerio
+
+
+
 
 ### Using your own credentials
 You will need to register your app and get your own credentials from the Spotify for Developers Dashboard.
