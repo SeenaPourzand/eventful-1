@@ -17,7 +17,7 @@ var cheerio = require('cheerio');
 
 var client_id = 'ea4ceeed7ac442f0a692fae6b60e70d4'; // Your client id
 var client_secret = '69329331d2f847cc9e52216291bd1e76'; // Your secret
-var redirect_uri = 'http://localhost:8888/callback'; // Your redirect uri
+var redirect_uri = 'http://eventful-spotify.herokuapp.com/callback'; // Your redirect uri
 var top_tracks = {};
 
 /**
