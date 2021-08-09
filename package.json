@@ -4,7 +4,7 @@
   "description": "welcome to eventful, a web app to show you notable world events that occured when your favorite tracks were released.",
   "version": "0.0.2",
   "scripts": {
-    "start": "node node authorization_code/app.js"
+    "start": "node authorization_code/app.js"
   },
   "dependencies": {
     "cheerio": "^1.0.0-rc.10",
